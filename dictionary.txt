@@ -1,0 +1,207 @@
+I	i
+thou	you
+he	he
+we	i, we, you
+you	advantage, black magic, kindness, miss, mr., you
+they	they
+this	here, this
+that	specific, that
+here	here
+there	over there, there
+who	who
+what	any, whatever, what
+where	where
+when	when
+how	how
+not	not
+all	absolutely, all, completely, overall, whole
+many	abundantly, many, more, much, very much, very
+some	some, thin, village
+few	a little, minor, slightly, trifling
+other	others, other
+one	one
+two	two
+three	three
+four	four
+five	five
+big	big
+long	long
+wide	large, widely, wide, width
+thick	bushy, thick
+heavy	a lot, focus, hard, heavily, heavy, much, severely, weigh
+small	small
+short	briefly, short
+narrow	narrow
+thin	slender, thin
+woman	female, weaker sex, woman
+man	male, man
+person	human, person, stir
+child	child
+wife	wife
+husband	husband
+mother	goddess, mother, the female of an animal, title used in front of girl or woman
+father	father
+animal	animal
+fish	fish
+bird	bird
+dog	dog
+louse	kind of a marine species within echeneidae, louse
+snake	snake
+worm	worm
+tree	tree
+forest	forest
+stick	log, plant, stick, wooden, wood
+fruit	fruit
+seed	chessman, grain, pill, pustule, seed, stone
+leaf	gourami, leaf
+root	root
+bark	bark, climacteridae
+flower	flower
+grass	grass
+rope	elephant, classifier for elephants, rope
+skin	film, leather, movie, shadow puppet, skin
+meat	content, flesh, meat
+blood	blood, descent
+bone	bone, stingy, thrifty
+fat	fat, oil
+egg	a kind of banana, egg, lay an egg, lay eggs, name of a species of banana, ovum
+horn	horn
+tail	comet (end), tail end (of one of the thai consonants), tailings, tail
+feather	carry, hair, transport
+hair	hair, i
+head	brain, classifier for head etc., head
+ear	ear, handle, loop
+eye	eye, grandfather, knot, maternal grandfather, mesh, turn
+nose	nose
+mouth	mouth
+tooth	cut, tooth
+tongue	reed, tongue
+fingernail	nail
+foot	allude, foot, lean on, refer
+leg	gambler, leg
+knee	genu, knee
+hand	hand, holder
+wing	feather, flank, wing
+belly	abdomen, belly, stomach
+guts	intestine, lead refill, person in the family, secret, stuffing, stuff
+neck	collar, neck, popularity, throat
+back	after, back (of body), back, behind, dwelling, next
+breast	breast, chest, ministry of industry, soul
+heart	heart, mind
+liver	(in a) row, liver, row
+drink	drink
+eat	corrupt, eat, take off, use
+bite	bite, corrode, quarrel
+suck	absorb, suck
+spit	spit
+vomit	onomatopoeia from the sound of vomiting, vomit
+blow	blow, fan
+breathe	breathe
+laugh	laugh
+see	perceive, see
+hear	hear
+know	know, perceive
+think	calculate, compute, conceive, consider, create, estimate, regard, think, want
+smell	smell
+fear	afraid, fear
+sleep	sleep
+live	alive, live
+die	be paralyzed, breakdown, dead, decease, die, fixed, lose, lost, pass away
+kill	assassinate, cancel, kill
+fight	battle against, be not better than, contend, fight
+hunt	hunt
+hit	an hour counting after midnight, bang, batter, forge, hit, record, value, whip
+cut	cut, slice
+split	distinguish, divide, separate
+stab	bet, enter, gamble, stab, write down instructions or comments (to a subordinate)
+scratch	claw
+dig	dig
+swim	swim
+fly	fly
+walk	walk, work
+come	arrive, come from, come, coming (toward the present; or toward the focal time), move
+lie	sleep
+sit	place, sit
+stand	long-lasting, stand
+turn	evolve, revolve, rotate, turn around, turn
+fall	be crestfallen, come to, come, degrade, drop, fade (colours), fade, fail (an examination), fail, fall into, fall (on), fall, fell, fish (with a hook and line), make a success of, miss, rain, set
+give	give, inform, permit, to
+hold	believe in, forbid, hire, hold, regard, rely on
+squeeze	oppress, press, squeeze
+rub	rub, scrub
+wash	develop, wash clothes, wash
+wipe	wipe
+pull	extract, pull, retrieve
+push	push
+throw	pitch, throw
+tie	fasten, plot
+sew	sew
+count	count as, count, regard
+say	mention, say, speak, talk
+sing	sing
+play	gamble, perform, playfully, play
+float	drift (from job to job), float, soar
+flow	eel, flow
+freeze	be hard, be strong, hard, solidify, stiff, strong
+swell	swell
+sun	sun
+moon	moon
+star	leopard, sika deer, star
+water	liquid, river, water
+rain	grind, rain, sharpen
+river	river
+lake	lake
+sea	marine, sea
+salt	salt
+stone	cruel, hard, rock, stone
+sand	sand
+dust	dust
+earth	ground
+cloud	cloud
+fog	dark gray, fog
+sky	blue, heaven, sky
+wind	air, breath, faint, fall, swift land crab, wind
+snow	snow
+ice	ice
+smoke	smoke
+fire	electric light, fire, light
+ashes	ash
+burn	burn, roasted, roast
+road	road, street
+mountain	mountain
+red	red, revealed, to be revealed
+green	green, rank, stinky
+yellow	yellow
+white	white, fair
+black	black, dive, transplant
+night	at night, night
+day	daytime
+year	year
+warm	heat up, warm
+cold	cold
+full	be filled with, be full, full
+new	again, newly, new
+old	old
+good	best, conciliate, fine, gallbladder, good, nice, tidy, well
+bad	bad, worse
+rotten	decay, rotten
+dirty	dirty, filthy, snidely
+straight	accurate, at, be in accordance with, be precise at, be straight, honest, punctually, rush, same, straightforwardly, straightly, straight, tar
+round	round
+sharp	be sharp, cape, peninsula, piercing
+dull	blunt, dull, go straight in, stiff
+smooth	all, smooth, with nothing left
+wet	limp, make a paste, wet
+dry	dehydrate, dried, dry
+correct	agree upon, be at odds, cheap, correct, passive, touch, pass
+near	adjacency, close, come near, near
+far	distant, far off, far
+right	right
+left	left
+at	at, land, ordinal number, ordinal, place, qualifiers for places, seat, that, to, where, word for utensil
+in	inside, in, of
+with	and, entrapper, on, together with, trap, with
+and	and
+if	casa, if, suppose
+because	because
+name	name, title
